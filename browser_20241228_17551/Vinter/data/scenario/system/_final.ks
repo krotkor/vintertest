@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/Снимок_экрана_2024-12-13_200955.png"  ]
+[preload  storage="./data/bgimage/Снимок_экрана_2024-12-28_161226.png"  ]
+[preload  storage="./data/bgimage/Снимок_экрана_2024-12-11_113524.png"  ]
+[preload  storage="./data/fgimage/default/Снимок_экрана_2024-12-11_211537.png"  ]
+[preload  storage="./data/fgimage/default/photo-output_1_-Photoroom.png"  ]
+[preload  storage="./data/bgimage/photo-output_25_.jpg"  ]
+[preload  storage="./data/bgimage/Снимок_экрана_2024-12-11_113052.png"  ]
+[return]
